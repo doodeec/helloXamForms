@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:HelloForm" x:Class="HelloForm.HelloFormPage">
+	<ContentPage.Content>
+		<ListView x:Name="listView" SeparatorVisibility="None" ItemsSource="{x:Static local:ItemViewModel.items}" ItemSelected="Handle_ItemSelected">
+			<ListView.ItemTemplate>
+				<DataTemplate>
+					<ViewCell>
+						<StackLayout Orientation="Horizontal" Padding="2,15">
+							<Image HorizontalOptions="Start" Source="bulb.png"  />
+							<Label Text="{Binding name}" HorizontalOptions="CenterAndExpand" FontSize="18" FontFamily="" />
+						</StackLayout>
+					</ViewCell>
+				</DataTemplate>
+			</ListView.ItemTemplate>
+		</ListView>
+		</ContentPage.Content>
+</ContentPage>

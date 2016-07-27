@@ -1,0 +1,16 @@
+/Users/tom/Projects/HelloForm/HelloForm/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/tom/Projects/HelloForm/HelloForm/obj/Debug/HelloForm.App.xaml.g.cs
+/Users/tom/Projects/HelloForm/HelloForm/obj/Debug/HelloForm.HelloFormPage.xaml.g.cs
+/Users/tom/Projects/HelloForm/HelloForm/obj/Debug/HelloForm.App.xaml
+/Users/tom/Projects/HelloForm/HelloForm/obj/Debug/HelloForm.HelloFormPage.xaml
+/Users/tom/Projects/HelloForm/HelloForm/bin/Debug/Xamarin.Forms.Core.dll
+/Users/tom/Projects/HelloForm/HelloForm/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/tom/Projects/HelloForm/HelloForm/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/tom/Projects/HelloForm/HelloForm/bin/Debug/HelloForm.dll.mdb
+/Users/tom/Projects/HelloForm/HelloForm/bin/Debug/HelloForm.dll
+/Users/tom/Projects/HelloForm/HelloForm/obj/Debug/HelloForm.dll
+/Users/tom/Projects/HelloForm/HelloForm/obj/Debug/HelloForm.dll.mdb
+/Users/tom/Projects/HelloForm/HelloForm/obj/Debug/HelloForm.SecondPage.xaml.g.cs
+/Users/tom/Projects/HelloForm/HelloForm/obj/Debug/HelloForm.SecondPage.xaml
+/Users/tom/Projects/HelloForm/HelloForm/obj/Debug/HelloForm.AnotherPage.xaml.g.cs
+/Users/tom/Projects/HelloForm/HelloForm/obj/Debug/HelloForm.AnotherPage.xaml

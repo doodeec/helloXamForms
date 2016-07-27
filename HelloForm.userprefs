@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="iOS/HelloForm.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloForm/HelloFormPage.xaml.cs">
+    <Files>
+      <File FileName="HelloForm/HelloFormPage.xaml.cs" Line="14" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HelloForm.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelloForm.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F50728C5-526A-4D5F-A0B0-7DE60FB190EC" />
+</Properties>
